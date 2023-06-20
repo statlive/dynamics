@@ -1,0 +1,32 @@
+* Lab projects
+
+* TODO assemble vapor sink
+
+* TODO eye protection and mask
+
+* TODO Assemble parts
+
+** microcontroler
+
+** pm 2.5 meter
+
+** voc senser
+
+** photodioe
+
+* TODO Assemble soldering tools
+
+** Sponge
+
+** flux
+
+** holder
+
+** iron
+
+* TODO assemble instructions
+
+* 
+* TODO tin tip
+
+
