@@ -26,7 +26,19 @@
 
 * TODO assemble instructions
 
-* 
+** photodiode alpha detector
+[[https://physicsopenlab.org/2020/06/15/alpha-detector-with-bpx61-photodiode/][DIY detector]]
+[[https://physicsopenlab.org/low-cost-diy-scientific-equipment/][DIY instruments]]
+[[https://inis.iaea.org/collection/NCLCollectionStore/_Public/49/018/49018135.pdf][amplifier]]
+[[http://www.diva-portal.org/smash/get/diva2:1666320/FULLTEXT01.pdf][low cost kit]]
+[[https://www.youtube.com/watch?v=IM3RJr54IAQ][youtube]]
+[[https://github.com/ozel/DIY_particle_detector/][github]]
+[[https://physicsopenlab.org/2020/06/15/alpha-detector-with-bpx61-photodiode/][Detector]]
+[[https://www.hilger-crystals.co.uk/guide-to-inorganic-scintillator-crystals/][scintilator crystals]]
+
+** Spectrometer
+
+
 * TODO tin tip
 
 
