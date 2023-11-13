@@ -80,3 +80,15 @@ click on the install button.
 
   #+end_src
 
+*** TODO Run the code.
+Open the code in Emacs, then step through it by holding down the
+control key and pressing c and then holding down the control key and
+pressing n, denoted C-x C-n.
+
+#+begin_src
+  C-x C-f dynamics/app.R
+  C-c C-n
+  ...
+  C-c C-n
+#+end_src
+
