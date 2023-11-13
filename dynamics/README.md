@@ -89,3 +89,15 @@ click on the install button.
     ~/ $ cd projects
     ~/projects $ git clone git@github.com:statlive/dynamics.git
 
+
+### TODO Run the code.
+
+Open the code in Emacs, then step through it by holding down the
+control key and pressing c and then holding down the control key and
+pressing n, denoted C-x C-n.
+
+    C-x C-f dynamics/app.R
+    C-c C-n
+    ...
+    C-c C-n
+
