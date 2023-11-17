@@ -76,7 +76,7 @@ click on the install button.
 
   ~/ $ mkdir projects
   ~/ $ cd projects
-  ~/projects $ git clone git@github.com:statlive/dynamics.git
+  ~/projects $ git clone https://github.com:statlive/dynamics.git
 
   #+end_src
 
